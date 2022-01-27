@@ -26,8 +26,8 @@ table = soup.find(name="table")
 
 # Data Structure Conversion (Estruturar conteúdo em um Data Frame) - Pandas
 df_full = pd.read_html(str(table))[0]
-df = df_full[["Posição", "PTS"]]
-df.columns = ["time", "pontos"]
+df = df_full[["Posição", "PTS", "V", "E", "D", "%"]]
+df.columns = ["time", "pontos", "Vitorias", "Empates", "Derrotas", "%"]
 
 tabelaFinal = {}
 tabelaFinal["ranking"] = df.to_dict("records")
