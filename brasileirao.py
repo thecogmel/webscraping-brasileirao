@@ -52,17 +52,34 @@ print("*************************************************************************
 
 dados = dfSkoob["%"].values[:5]
 pontos = dfSkoob["pontos"].values[:5]
+vitorias = dfSkoob["vitorias"].values[:5]
+derrota = dfSkoob["derrotas"].values[:5]
 
 index = ["Atlético Mineiro", "Flamengo", "Palmeiras", "Fortaleza", "Corinthians"]
-df = pd.DataFrame({"pontos": pontos, "aproveitamento": dados}, index=index)
+df = pd.DataFrame(
+    {
+        "pontos": pontos,
+        "aproveitamento": dados,
+        "vitorias": vitorias,
+        "derrota": derrota,
+    },
+    index=index,
+)
 ax = df.plot.bar(rot=0, title="Times com melhores aproveitamento")
 
 dadosRebaixados = dfSkoob["%"].values[-4:]
 pontosRebaixados = dfSkoob["pontos"].values[-4:]
+vitoriasRebaixados = dfSkoob["vitorias"].values[-4:]
+derrotaRebaixados = dfSkoob["derrotas"].values[-4:]
 
 indexRebaixados = ["Grêmio", "Bahia", "Sport", "Chapecoense"]
 dfRebaixados = pd.DataFrame(
-    {"pontos": dadosRebaixados, "aproveitamento": pontosRebaixados},
+    {
+        "pontos": dadosRebaixados,
+        "aproveitamento": pontosRebaixados,
+        "vitorias": vitoriasRebaixados,
+        "derrota": derrotaRebaixados,
+    },
     index=indexRebaixados,
 )
 fig = dfRebaixados.plot.bar(rot=0, title="Times Rebaixados")
