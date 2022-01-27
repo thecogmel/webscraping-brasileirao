@@ -1,1 +1,164 @@
-{"ranking": [{"time": "1\u00ba 0 Atl\u00e9tico Mineiro - MG", "pontos": 84, "Vitorias": 26, "Empates": 6, "Derrotas": 6, "%": 73}, {"time": "2\u00ba 0 Flamengo - RJ", "pontos": 71, "Vitorias": 21, "Empates": 8, "Derrotas": 9, "%": 62}, {"time": "3\u00ba 0 Palmeiras - SP", "pontos": 66, "Vitorias": 20, "Empates": 6, "Derrotas": 12, "%": 57}, {"time": "4\u00ba +1 Fortaleza - CE", "pontos": 58, "Vitorias": 17, "Empates": 7, "Derrotas": 14, "%": 50}, {"time": "5\u00ba -1 Corinthians - SP", "pontos": 57, "Vitorias": 15, "Empates": 12, "Derrotas": 11, "%": 50}, {"time": "6\u00ba 0 Red Bull Bragantino - SP", "pontos": 56, "Vitorias": 14, "Empates": 14, "Derrotas": 10, "%": 49}, {"time": "7\u00ba 0 Fluminense - RJ", "pontos": 54, "Vitorias": 15, "Empates": 9, "Derrotas": 14, "%": 47}, {"time": "8\u00ba 0 America - MG", "pontos": 53, "Vitorias": 13, "Empates": 14, "Derrotas": 11, "%": 46}, {"time": "9\u00ba 0 Atl\u00e9tico - GO", "pontos": 53, "Vitorias": 13, "Empates": 14, "Derrotas": 11, "%": 46}, {"time": "10\u00ba +1 Santos - SP", "pontos": 50, "Vitorias": 12, "Empates": 14, "Derrotas": 12, "%": 43}, {"time": "11\u00ba -1 Cear\u00e1 - CE", "pontos": 50, "Vitorias": 11, "Empates": 17, "Derrotas": 10, "%": 43}, {"time": "12\u00ba 0 Internacional - RS", "pontos": 48, "Vitorias": 12, "Empates": 12, "Derrotas": 14, "%": 42}, {"time": "13\u00ba 0 S\u00e3o Paulo - SP", "pontos": 48, "Vitorias": 11, "Empates": 15, "Derrotas": 12, "%": 42}, {"time": "14\u00ba 0 Athletico Paranaense - PR", "pontos": 47, "Vitorias": 13, "Empates": 8, "Derrotas": 17, "%": 41}, {"time": "15\u00ba 0 Cuiab\u00e1 - MT", "pontos": 47, "Vitorias": 10, "Empates": 17, "Derrotas": 11, "%": 41}, {"time": "16\u00ba +1 Juventude - RS", "pontos": 46, "Vitorias": 11, "Empates": 13, "Derrotas": 14, "%": 40}, {"time": "17\u00ba +1 Gr\u00eamio - RS", "pontos": 43, "Vitorias": 12, "Empates": 7, "Derrotas": 19, "%": 37}, {"time": "18\u00ba -2 Bahia - BA", "pontos": 43, "Vitorias": 11, "Empates": 10, "Derrotas": 17, "%": 37}, {"time": "19\u00ba 0 Sport - PE", "pontos": 38, "Vitorias": 9, "Empates": 11, "Derrotas": 18, "%": 33}, {"time": "20\u00ba 0 Chapecoense - SC", "pontos": 15, "Vitorias": 1, "Empates": 12, "Derrotas": 25, "%": 13}]}
+{
+  "ranking": [
+    {
+      "time": "1\u00ba 0 Atl\u00e9tico Mineiro - MG",
+      "pontos": 84,
+      "Vitorias": 26,
+      "Empates": 6,
+      "Derrotas": 6,
+      "%": 73
+    },
+    {
+      "time": "2\u00ba 0 Flamengo - RJ",
+      "pontos": 71,
+      "Vitorias": 21,
+      "Empates": 8,
+      "Derrotas": 9,
+      "%": 62
+    },
+    {
+      "time": "3\u00ba 0 Palmeiras - SP",
+      "pontos": 66,
+      "Vitorias": 20,
+      "Empates": 6,
+      "Derrotas": 12,
+      "%": 57
+    },
+    {
+      "time": "4\u00ba +1 Fortaleza - CE",
+      "pontos": 58,
+      "Vitorias": 17,
+      "Empates": 7,
+      "Derrotas": 14,
+      "%": 50
+    },
+    {
+      "time": "5\u00ba -1 Corinthians - SP",
+      "pontos": 57,
+      "Vitorias": 15,
+      "Empates": 12,
+      "Derrotas": 11,
+      "%": 50
+    },
+    {
+      "time": "6\u00ba 0 Red Bull Bragantino - SP",
+      "pontos": 56,
+      "Vitorias": 14,
+      "Empates": 14,
+      "Derrotas": 10,
+      "%": 49
+    },
+    {
+      "time": "7\u00ba 0 Fluminense - RJ",
+      "pontos": 54,
+      "Vitorias": 15,
+      "Empates": 9,
+      "Derrotas": 14,
+      "%": 47
+    },
+    {
+      "time": "8\u00ba 0 America - MG",
+      "pontos": 53,
+      "Vitorias": 13,
+      "Empates": 14,
+      "Derrotas": 11,
+      "%": 46
+    },
+    {
+      "time": "9\u00ba 0 Atl\u00e9tico - GO",
+      "pontos": 53,
+      "Vitorias": 13,
+      "Empates": 14,
+      "Derrotas": 11,
+      "%": 46
+    },
+    {
+      "time": "10\u00ba +1 Santos - SP",
+      "pontos": 50,
+      "Vitorias": 12,
+      "Empates": 14,
+      "Derrotas": 12,
+      "%": 43
+    },
+    {
+      "time": "11\u00ba -1 Cear\u00e1 - CE",
+      "pontos": 50,
+      "Vitorias": 11,
+      "Empates": 17,
+      "Derrotas": 10,
+      "%": 43
+    },
+    {
+      "time": "12\u00ba 0 Internacional - RS",
+      "pontos": 48,
+      "Vitorias": 12,
+      "Empates": 12,
+      "Derrotas": 14,
+      "%": 42
+    },
+    {
+      "time": "13\u00ba 0 S\u00e3o Paulo - SP",
+      "pontos": 48,
+      "Vitorias": 11,
+      "Empates": 15,
+      "Derrotas": 12,
+      "%": 42
+    },
+    {
+      "time": "14\u00ba 0 Athletico Paranaense - PR",
+      "pontos": 47,
+      "Vitorias": 13,
+      "Empates": 8,
+      "Derrotas": 17,
+      "%": 41
+    },
+    {
+      "time": "15\u00ba 0 Cuiab\u00e1 - MT",
+      "pontos": 47,
+      "Vitorias": 10,
+      "Empates": 17,
+      "Derrotas": 11,
+      "%": 41
+    },
+    {
+      "time": "16\u00ba +1 Juventude - RS",
+      "pontos": 46,
+      "Vitorias": 11,
+      "Empates": 13,
+      "Derrotas": 14,
+      "%": 40
+    },
+    {
+      "time": "17\u00ba +1 Gr\u00eamio - RS",
+      "pontos": 43,
+      "Vitorias": 12,
+      "Empates": 7,
+      "Derrotas": 19,
+      "%": 37
+    },
+    {
+      "time": "18\u00ba -2 Bahia - BA",
+      "pontos": 43,
+      "Vitorias": 11,
+      "Empates": 10,
+      "Derrotas": 17,
+      "%": 37
+    },
+    {
+      "time": "19\u00ba 0 Sport - PE",
+      "pontos": 38,
+      "Vitorias": 9,
+      "Empates": 11,
+      "Derrotas": 18,
+      "%": 33
+    },
+    {
+      "time": "20\u00ba 0 Chapecoense - SC",
+      "pontos": 15,
+      "Vitorias": 1,
+      "Empates": 12,
+      "Derrotas": 25,
+      "%": 13
+    }
+  ]
+}
