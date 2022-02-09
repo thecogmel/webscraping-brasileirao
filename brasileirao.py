@@ -40,7 +40,7 @@ fp = open("tabela.json", "w")
 fp.write(js)
 fp.close()
 
-dfSkoob = pd.read_json("C:/Users/Erick/Documents/GitHub/webscraping/tabela.json")
+dfSkoob = pd.read_json("./tabela.json")
 # mostra quantidade de amostras
 # mostra quantidade de colunas
 # mostra os nomes das colunas
